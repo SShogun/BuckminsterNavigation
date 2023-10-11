@@ -1,0 +1,280 @@
+@media only screen and (max-width: 320px)  /*Phone S*/
+{
+    html {
+        width: 320px;
+    }
+    .navbar {
+        width: 100%;
+    }
+    .background-main {
+        width: 100%;
+        height: 37rem;
+    }
+    .main-box {
+        width: 1rem;
+    }
+    .main-title {
+        font-size: 38px;
+        position: relative;
+        left: -80px;
+        text-align: center;
+        bottom: 100px;
+    }
+    .main-text {
+        font-size: 20px;
+        left: -88px;
+        bottom: 55px;
+        width: 12rem;
+    }
+    .buttons {
+        flex-direction: column;
+        position: absolute;       
+    left: 11px;
+    bottom: 24px;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    #btn1 {
+        margin-bottom: 10px;
+        padding: 8px 12px;
+    }
+    #btn2 {
+        padding: 8px 12px;
+    }
+    .background-features {
+        height: 40rem;
+    }
+    .feature-container {
+        transform: scale(1);
+        left: 0;
+        flex-direction: column;
+    }
+    .feature-box {
+        width: 300px;
+    }
+    .feature-box img{
+       width: 40px;
+    }
+    .feature-main-text {
+        font-size: 16px;
+    }
+    .feature-sub-text {
+        font-size: 12px;
+    }
+    .sponsor-content {
+
+        padding: 10px;
+    }
+    .sponsors-main-text {
+        font-size: 16px;
+    }
+    .link-box {
+        width: 16rem;
+    }
+    .link-row-ul {
+        display: none;
+    }
+    .link-content {
+        flex-direction: column;
+    }
+    footer {
+        height: 13rem;
+    }
+    .link-row-main p {
+        font-size: 1.2rem;
+        width: 10rem;
+    }
+}
+@media only screen and (max-width: 375px)  /*Phone M*/
+{
+    html {
+        width: 375px;
+    }
+    .navbar {
+        width: 100%;
+    }
+    .background-main {
+        width: 100%;
+        height: 37rem;
+    }
+    .main-box {
+        width: 7rem;
+    }
+    .main-title {
+        font-size: 40px;
+        position: relative;
+        left: -45px;
+        text-align: center;
+        bottom: 100px;
+    }
+    .title-aligner {
+        position: relative;
+        left: 14%;
+    }
+    .main-text {
+        font-size: 22px;
+    left: -78px;
+    bottom: 60px;
+    width: 17rem;
+    }
+    .buttons {
+        flex-direction: column;
+        position: absolute;
+        left: 58px;
+        bottom: 25px;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    #btn1 {
+        margin-bottom: 10px;
+        padding: 12px 20px;
+    }
+    #btn2 {
+        padding: 12px 20px;
+    }
+    .background-features {
+        height: 40rem;
+    }
+    .feature-container {
+        transform: scale(1);
+        left: 0;
+        flex-direction: column;
+    }
+    .feature-box {
+        position: relative;
+    left: 32px;
+    width: 300px;
+    transform: scale(1.2);
+    }
+    .feature-box img{
+       width: 40px;
+    }
+    .feature-main-text {
+        font-size: 16px;
+    }
+    .feature-sub-text {
+        font-size: 12px;
+    }
+    .sponsor-content {
+
+        padding: 10px;
+    }
+    .sponsors-main-text {
+        font-size: 16px;
+    }
+    .link-box {
+        width: 16rem;
+    }
+    .link-row-ul {
+        display: none;
+    }
+    .link-content {
+        flex-direction: column;
+    }
+    footer {
+        height: 13rem;
+    }
+    .link-row-main p {
+        font-size: 1.2rem;
+        width: 10rem;
+    }
+}
+@media only screen and (max-width: 425px)  /*Phone M*/
+{
+    html {
+        width: 426px;
+    }
+    .navbar {
+        width: 426px;
+    }
+    .background-main {
+        width: 100%;
+        height: 37rem;
+    }
+    .main-box {
+        width: 7rem;
+    }
+    .main-title {
+        font-size: 40px;
+        position: relative;
+        left: -45px;
+        text-align: center;
+        bottom: 100px;
+    }
+    .title-aligner {
+        position: relative;
+        left: 14%;
+    }
+    .main-text {
+        font-size: 22px;
+    left: -78px;
+    bottom: 60px;
+    width: 17rem;
+    }
+    .buttons {
+        flex-direction: column;
+        position: absolute;
+        left: 58px;
+        bottom: 25px;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    #btn1 {
+        margin-bottom: 10px;
+        padding: 12px 20px;
+    }
+    #btn2 {
+        padding: 12px 20px;
+    }
+    .background-features {
+        height: 44rem;
+    }
+    .feature-container {
+        transform: scale(1);
+        left: 0;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .feature-box {
+        position: relative;
+    left: 66px;
+    width: 300px;
+    transform: scale(1.3);
+    margin: 25px 0px;
+    }
+    .feature-box img{
+       width: 40px;
+    }
+    .feature-main-text {
+        font-size: 16px;
+    }
+    .feature-sub-text {
+        font-size: 12px;
+    }
+    .sponsor-content {
+
+        padding: 10px;
+    }
+    .sponsors-main-text {
+        font-size: 16px;
+    }
+    .link-box {
+        width: 16rem;
+    }
+    .link-row-ul {
+        display: none;
+    }
+    .link-content {
+        flex-direction: column;
+    }
+    footer {
+        height: 13rem;
+    }
+    .link-row-main p {
+        font-size: 1.2rem;
+        width: 10rem;
+    }
+}
